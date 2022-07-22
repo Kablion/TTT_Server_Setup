@@ -1,0 +1,11 @@
+//Those //s aren't needed, they are just "notes" which are not code.
+// gmod_server_update.txt
+//
+@ShutdownOnFailedCommand 1 //If updating multiple servers at once, then set this to 0.
+@NoPromptForPassword 1
+login anonymous // Use either "anonymous" or login with an account.
+force_install_dir C:\GModServer
+app_update 4020 validate
+force_install_dir C:\GModServer
+app_update 232330
+quit

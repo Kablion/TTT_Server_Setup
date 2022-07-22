@@ -1,0 +1,14 @@
+SteamCMD/
+bin/
+cstrike/
+garrysmod/
+hl2/
+platform/
+sourceengine/
+steam_cache/
+steamapps/
+old/
+
+srcds.exe
+steam_appid.txt
+ThirdPartyLegalNotices.txt
